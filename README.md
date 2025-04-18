@@ -1,2 +1,2 @@
 Plik z zadaniem PPZO na studia NR1
-Główne pliki znajdują się w folderach csh (C#) oraz python.
+Kod z rozwiązaniem zadań znajduje się w folderach csh (dla C#) oraz python
